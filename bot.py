@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Mess
 
 import os
 
-TOKEN = os.getenv("8704606558:AAG7D9Dx6QqMWTKR-XUA4jAnIUlg_OIFNAA")
+TOKEN = os.getenv("BOT_TOKEN")
 
 CHANNEL_LINK = "https://t.me/tammy18368"
 ADMIN_USERNAME = "https://t.me/tammy1836"
